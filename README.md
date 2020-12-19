@@ -1,6 +1,6 @@
 # EVA5-Session4
 
-Assignment Tasks
+## Assignment Tasks
 
 99.4% validation accuracy
 Less than 20k Parameters
@@ -8,7 +8,7 @@ You can use anything from above you want.
 Less than 20 Epochs
 No fully connected layer
 
-My Model
+## My Model
 
 The total number of parameters i achieved are displayed below. I got 99.4% accuracy once.
 
@@ -40,15 +40,15 @@ The total number of parameters i achieved are displayed below. I got 99.4% accur
         Non-trainable params: 0
 
 
-loss=0.021394284442067146 batch_id=468: 100%|██████████| 469/469 [00:13<00:00, 34.63it/s]
-  0%|          | 0/469 [00:00<?, ?it/s]
-Test set: Average loss: 0.0202, Accuracy: 9942/10000 (99.42%)
+        loss=0.021394284442067146 batch_id=468: 100%|██████████| 469/469 [00:13<00:00, 34.63it/s]
+          0%|          | 0/469 [00:00<?, ?it/s]
+        Test set: Average loss: 0.0202, Accuracy: 9942/10000 (99.42%)
 
 
-loss=0.0219403225928545 batch_id=468: 100%|██████████| 469/469 [00:13<00:00, 34.73it/s]
-  0%|          | 0/469 [00:00<?, ?it/s]
-Test set: Average loss: 0.0200, Accuracy: 9937/10000 (99.37%)
+        loss=0.0219403225928545 batch_id=468: 100%|██████████| 469/469 [00:13<00:00, 34.73it/s]
+          0%|          | 0/469 [00:00<?, ?it/s]
+        Test set: Average loss: 0.0200, Accuracy: 9937/10000 (99.37%)
 
-loss=0.008834498934447765 batch_id=468: 100%|██████████| 469/469 [00:13<00:00, 35.03it/s]
-Test set: Average loss: 0.0218, Accuracy: 9926/10000 (99.26%)
+        loss=0.008834498934447765 batch_id=468: 100%|██████████| 469/469 [00:13<00:00, 35.03it/s]
+        Test set: Average loss: 0.0218, Accuracy: 9926/10000 (99.26%)
 
