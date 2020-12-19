@@ -2,15 +2,15 @@
 
 ## Assignment Tasks
 
-99.4% validation accuracy
-Less than 20k Parameters
-You can use anything from above you want. 
-Less than 20 Epochs
-No fully connected layer
+* 99.4% validation accuracy
+* Less than 20k Parameters
+* You can use anything from above you want. 
+* Less than 20 Epochs
+* No fully connected layer
 
 ## My Model
 
-The total number of parameters i achieved are displayed below. I got 99.4% accuracy once.
+The total number of parameters i achieved are less than 10k i.e., 9,954 which are displayed below. I got 99.4% accuracy once while testing.
 
         ----------------------------------------------------------------
                 Layer (type)               Output Shape         Param #
